@@ -1,12 +1,18 @@
 p {
     color: #757575;
 }
-a{
-    text-decoration: none;
+a href {
+    text-decoration: orangered;
 }
 nav {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 p {
     color: blue;
+  }
+  ul {
+    color: green
+  }
+  img { 
+    
   }
